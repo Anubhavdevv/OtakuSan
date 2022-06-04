@@ -1,7 +1,6 @@
-## 🚧 Under construction 🚧
-# YourAnimeList 
+# OtakuSan
 
-YourAnimeList (Yal) is a mobile app to help you find your favorite anime or to discover new anime!
+OtakuSan is a mobile app to help you find your way to find your favorite anime or to discover new anime!
 
 ## 🛠️Builded with 
 * [React Native](https://github.com/facebook/react-native) 
