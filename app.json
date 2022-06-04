@@ -1,12 +1,10 @@
 {
   "expo": {
-    "name": "Animeapp",
-    "slug": "Animeapp",
+    "name": "OtakuSan",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Active.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +19,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.pedroagt.YAL"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "description": "My Anime List :)",
+    "slug": "otakusan",
+    "githubUrl": "https://github.com/Anubhavdevv/OtakuSan"
   }
 }
