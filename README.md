@@ -14,16 +14,16 @@ OtakuSan is a mobile app to help you find your way to find your favorite anime o
 ### HomeScreen
 This screen shows a random list of anime separated into genres, a new list is generated whenever this screen is accessed
 
-<img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/Homescreen.gif" width="300" height="600" title="Homescreen">
+<!-- <img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/Homescreen.gif" width="300" height="600" title="Homescreen"> -->
 
 ### Search
 The app contains a search bar that can be used to find millions of animes!
 
-<img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/Search.gif" width="300" height="600" title="Homescreen">
+<!-- <img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/Search.gif" width="300" height="600" title="Homescreen"> -->
 
 ### Datails screen
 
  Here you will find more details about the chosen anime such as the score, number of episodes and synopsis
 
-<img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/datail_02.jpg" width="300" height="600" title="Homescreen">
+<!-- <img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/datail_02.jpg" width="300" height="600" title="Homescreen"> -->
 
