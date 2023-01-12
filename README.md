@@ -2,6 +2,8 @@
 
 OtakuSan is a mobile app to help you find your way to find your favorite anime or to discover new anime!
 
+The ultimate mobile app for anime lovers. Whether you're looking to find your next favorite anime or discover new and exciting series, OtakuSan has you covered. With a vast database of anime titles, you can easily search and browse through different genres, ratings, and more. Never miss a new episode or release with OtakuSan's customized watchlist and notifications. Get ready to take your anime obsession to the next level with OtakuSan!"
+
 ## 🛠️Builded with 
 * [React Native](https://github.com/facebook/react-native) 
 
