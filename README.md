@@ -11,7 +11,7 @@ The ultimate mobile app for anime lovers. Whether you're looking to find your ne
 
 * [Jikan Api](https://github.com/jikan-me/jikan) 
 
-## 👀 Demonstration
+## 💻 Demonstration
 
 ### HomeScreen
 This screen shows a random list of anime separated into genres, a new list is generated whenever this screen is accessed
