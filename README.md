@@ -25,8 +25,7 @@ The app contains a search bar that can be used to find millions of animes!
 
 ### Datails screen
 
- Here you will find more details about the chosen anime such as the score, number of episodes and synopsis
-
+ Here you will find more details about the chosen anime such as the score, number of episodes 
 <!-- <img src="https://github.com/PedroCororatte/YourAnimeList/blob/main/datail_02.jpg" width="300" height="600" title="Homescreen"> -->
 The proposed app has a HomeScreen that displays a randomized list of anime organized by genre, and updates the list each time the screen is accessed. It also includes a Search feature with a bar for searching for millions of animes. The app also has a Details screen that provides additional information about a selected anime, such as its score, number of episodes, and synopsis.
 
